@@ -5,7 +5,8 @@ const nextConfig: NextConfig = {
    domains: [
   "instagram.fcai19-3.fna.fbcdn.net",
   "scontent.cdninstagram.com",
-  "another-cdn.com"
+  "another-cdn.com",
+  'cdn.sanity.io'
 ]
 },
 }
